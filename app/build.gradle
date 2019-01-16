@@ -33,7 +33,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
 
-
 sceneform.asset('sampledata/elefante.obj',
         'default',
         'sampledata/elefante.sfa',

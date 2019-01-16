@@ -37,7 +37,7 @@
     file: 'sampledata/elefante.obj',
     name: 'elefante',
     recenter: 'root',
-    scale: 0.30864000000000003,
+    scale: 0.1,
   },
   version: '0.54:1',
 }
